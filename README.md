@@ -22,4 +22,4 @@ npm run dev
 
 ---
 
-[![https://raw.githubusercontent.com/dr-montasir/public/main/native_math/images/svelte-native_math-chartjs.png](https://raw.githubusercontent.com/dr-montasir/public/main/native_math/images/svelte-native_math-chartjs.png)](https://svelte-native_math-chartjs.vercel.app)
+[![https://raw.githubusercontent.com/dr-montasir/public/main/native_math/images/svelte-native_math-chartjs.png](https://raw.githubusercontent.com/dr-montasir/public/main/native_math/images/svelte-native_math-chartjs.png)](https://svelte-native-math-chartjs.vercel.app)
